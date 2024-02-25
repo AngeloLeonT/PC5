@@ -59,3 +59,5 @@ if __name__ == "__main__":
 
     # Guardar el DataFrame procesado en un nuevo archivo Excel
     df.to_excel('reactiva_procesado.xlsx', index=False)
+
+    
